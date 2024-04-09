@@ -8,12 +8,13 @@ module.exports = {
 }
 
 // Database Name
-const dbName = 'STAY_DB'
+const dbName = 'stay_db'
 
 var dbConn = null
 
 async function getCollection(collectionName) {
     try {
+        // console.log('collectionName', collectionName)
         const db = await connect()
         const collection = await db.collection(collectionName)
         return collection

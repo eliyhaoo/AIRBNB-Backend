@@ -19,6 +19,9 @@ async function query(filterBy) {
 async function getById(stayId) {
     try {
         const collection = await dbService.getCollection('stay')
+        // console.log('collection', collection)
+        // console.log('stayId', stayId)
+        // const stay = collection.findOne({ _id: stayId })
         const stay = collection.findOne({ _id: ObjectId(stayId) })
         return stay
     } catch (err) {
