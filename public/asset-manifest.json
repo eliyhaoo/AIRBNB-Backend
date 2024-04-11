@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.137439b3.css",
-    "main.js": "/static/js/main.1dc9ae5d.js",
+    "main.css": "/static/css/main.eb91e401.css",
+    "main.js": "/static/js/main.51f873f6.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Paris.jpg": "/static/media/Paris.c3e1e5c50f96c84b1f10.jpg",
     "static/media/Santorini.jpg": "/static/media/Santorini.a6a58ea5452d6db0dece.jpg",
@@ -33,8 +33,8 @@
     "static/media/check-in experience.svg": "/static/media/check-in experience.4938d4a415ce09cc84c8cffedf6901a4.svg",
     "static/media/profile-mobile-menu.svg": "/static/media/profile-mobile-menu.ae810e87f9ab8acd9c75dd4273a65421.svg",
     "static/media/Wifi.svg": "/static/media/Wifi.76079658e4f88551e542.svg",
+    "static/media/blacksearchsvg.svg": "/static/media/blacksearchsvg.e68fe001c75a674891acd33ffff7a307.svg",
     "static/media/logo-mobile-menu.svg": "/static/media/logo-mobile-menu.2b08c399cd1ba107744bffb235395d88.svg",
-    "static/media/blacksearchsvg.svg": "/static/media/blacksearchsvg.560eeea80ed2e2ec07c646df1a92c545.svg",
     "static/media/South America.webp": "/static/media/South America.3f32b3945318eb0dbede.webp",
     "static/media/Long term.svg": "/static/media/Long term.2ee7307230a23d7e6820.svg",
     "static/media/cancellation.svg": "/static/media/cancellation.2ee7307230a23d7e68202af5460d37de.svg",
@@ -81,8 +81,8 @@
     "static/media/TV.svg": "/static/media/TV.19c812bc72f0eb926d5b.svg",
     "static/media/star.svg": "/static/media/star.9dde5ec8ba307e8feb544acd019e7f16.svg",
     "static/media/search-mobile-menu.svg": "/static/media/search-mobile-menu.324966a38f7508e82d987c53c3edb2bc.svg",
-    "static/media/magnifying-glass.svg": "/static/media/magnifying-glass.9e4cfce648b262bd2c4880be251502c5.svg",
-    "static/media/magnifying-glass-big.svg": "/static/media/magnifying-glass-big.401f6956fc7d33b168d117a4c7d03b42.svg",
+    "static/media/magnifying-glass.svg": "/static/media/magnifying-glass.10b3a16d871b6db940de7040739fec9b.svg",
+    "static/media/magnifying-glass-big.svg": "/static/media/magnifying-glass-big.992c379aae24bd0a479d9d27d9f31e91.svg",
     "static/media/Share.svg": "/static/media/Share.d5ebb96c3cadf4ea156ddcabc8b8dcf5.svg",
     "static/media/filter.svg": "/static/media/filter.e2795d497e591946edd1c0a91a95ef00.svg",
     "static/media/arrow-prev.svg": "/static/media/arrow-prev.7fb070a463ec4f9bbca1780f679ad8d7.svg",
@@ -94,12 +94,12 @@
     "static/media/minus-disabled.svg": "/static/media/minus-disabled.ea13e47c3edd7f58aba5cb99bca6f4b6.svg",
     "static/media/minus.svg": "/static/media/minus.0b1a508662e55e961d388b5f05d19594.svg",
     "static/media/close-modal.svg": "/static/media/close-modal.12b13cd0077bcc1a5a844bdcf6bd7586.svg",
-    "main.137439b3.css.map": "/static/css/main.137439b3.css.map",
-    "main.1dc9ae5d.js.map": "/static/js/main.1dc9ae5d.js.map",
+    "main.eb91e401.css.map": "/static/css/main.eb91e401.css.map",
+    "main.51f873f6.js.map": "/static/js/main.51f873f6.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.137439b3.css",
-    "static/js/main.1dc9ae5d.js"
+    "static/css/main.eb91e401.css",
+    "static/js/main.51f873f6.js"
   ]
 }
